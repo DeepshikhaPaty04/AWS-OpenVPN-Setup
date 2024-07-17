@@ -1,1 +1,1 @@
-# AWS-VPN-Setup
+# AWS-OpenVPN-Setup
